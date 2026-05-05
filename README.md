@@ -33,8 +33,8 @@ Password Attacks (Hydra, JohnTheRipper, etc.)
 Termux Styling (T-Header, Oh-My-Termux)
 
 #👨‍💻 Developer
-Handle: Hollow
-GitHub: [Your Profile Link Here]
+**Handle: Hollow**
+**GitHub: [Your Profile Link Here]**
 
 #⚖️ Disclaimer
 This tool is created for educational and ethical security testing purposes only. The developer is not responsible for any misuse or damage caused by this tool.
