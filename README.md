@@ -32,9 +32,6 @@ Phishing Attacks (Zphisher, Seeker, etc.)
 Password Attacks (Hydra, JohnTheRipper, etc.)
 Termux Styling (T-Header, Oh-My-Termux)
 
-#👨‍💻 Developer
-**Nickname: Hollow**
-**GitHub Profile: https://github.com/ishollowreal-coder**
 
 #⚖️ Disclaimer
 This tool is created for educational and ethical security testing purposes only. The developer is not responsible for any misuse or damage caused by this tool.
