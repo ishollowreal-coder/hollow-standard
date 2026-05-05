@@ -48,4 +48,4 @@ pkg install python git -y
 git clone https://github.com/ishollowreal-coder/hollow-standard.git
 cd hollow-standard
 pip install -r requirements.txt
-python main.py
+python hollow_toolx_standard.py
