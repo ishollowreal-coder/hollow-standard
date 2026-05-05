@@ -45,7 +45,7 @@ Copy and paste the following commands in your Termux:
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/YOUR_GITHUB_USERNAME/hollow-standard](https://github.com/YOUR_GITHUB_USERNAME/hollow-standard)
+git clone https://github.com/ishollowreal-coder/hollow-standard.git
 cd hollow-standard
 pip install -r requirements.txt
 python main.py
