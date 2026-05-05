@@ -34,7 +34,7 @@ Termux Styling (T-Header, Oh-My-Termux)
 
 #👨‍💻 Developer
 **Handle: Hollow**
-**GitHub: [Your Profile Link Here]**
+**GitHub: https://github.com/ishollowreal-coder**
 
 #⚖️ Disclaimer
 This tool is created for educational and ethical security testing purposes only. The developer is not responsible for any misuse or damage caused by this tool.
